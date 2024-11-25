@@ -26,9 +26,8 @@ http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAoo3DrUP57gWGegabrkdbOM/ts
 http://190.60.32.178:8178/play/a02w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Espn Deportes
 http://supersonictv.live:8080/329474/903964/22222
-
-
-
+#EXTINF:-1 group-title="DEPORTES", CANAL INTERNET
+https://streamtp1.com/global1.php?stream=tudn_usa
 
 
 # ---------------CINE-------------------
