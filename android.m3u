@@ -2,18 +2,14 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
 # ---------------DEPORTES-------------------
-#EXTINF:-1 xui-id="212599" tvg-id="" tvg-name="MX |* ESPN 2 HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JH6D17JoD_K7VPek2h92mXsDijUJsGl461YmN590LrAd.png" group-title="LIVE | Mexico",MX |* ESPN 2 HD
+#EXTINF:-1 xui-id="212599" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JH6D17JoD_K7VPek2h92mXsDijUJsGl461YmN590LrAd.png" group-title="DEPORTES",ESPN 2 HD
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAopwixNwuAZPT0HJYpKnPEs/ts
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN Premium HD
 http://200.59.188.3:8000/play/a0gh
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN 2 HD
 http://200.59.188.3:8000/play/a013
-#EXTINF:-1 xui-id="180527" tvg-id="" tvg-name="S| ESPN 2 HD" tvg-logo="http://vip-latin.com:80/images/TMMsx7ryZQ3sj8mw0-K1K_u-S_v-57s6m8zeIPg6uZAlkzxrxfZvcq3gk6YqiwGm.png" group-title="DEPORTES,S| ESPN 2 HD
-http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAgzP6xahG0zE9Jluh-typMY/ts
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN 3 HD
 http://200.59.188.3:8000/play/a011
-#EXTINF:-1 xui-id="212458" tvg-id="" tvg-name="GUA | TIGO SPORTS GUATEMALA 1️⃣" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JPJ8h20cgZDLkOeNl4LYOp5cPf-4a9LytgiCRHEezpTc7uLAv-_amPdpf7V31KvhVdeMpDTvzFPKonB8ZXVw5XM.png" group-title="DEPORTES",GUA | TIGO SPORTS GUATEMALA 1️⃣
-http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAkotY1JIlSyiYvB2laACL-M/ts
 #EXTINF:-1 xui-id="212459" tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 3" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JPJ8h20cgZDLkOeNl4LYOp5cPf-4a9LytgiCRHEezpTc7uLAv-_amPdpf7V31KvhVdeMpDTvzFPKonB8ZXVw5XM.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA 3
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAh3g8IvSNGQEAZW35OAPP3w/ts
 #EXTINF:-1 xui-id="212460" tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 2" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JPJ8h20cgZDLkOeNl4LYOp5cPf-4a9LytgiCRHEezpTc7uLAv-_amPdpf7V31KvhVdeMpDTvzFPKonB8ZXVw5XM.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA 2
