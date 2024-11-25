@@ -20,6 +20,9 @@ http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAr273y_3GRGMSHHiSDJNBXk/ts
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAmSxq1hZ86A2F0pU68nhapc/ts
 #EXTINF:-1 xui-id="212463" tvg-id="" tvg-name="CLARO SPORTS GT" tvg-logo="http://startv.solutions:80/images/qw9Sd5JnDX2uSQDrGmMcuhgZfVcZpmerblJzOfe2M50EQ9adzVbKtdSbM6XL1nLj.png" group-title="DEPORTES",CLARO SPORTS GT
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAoo3DrUP57gWGegabrkdbOM/ts
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://190.60.32.178:8178/play/a02w/index.m3u8
+
 
 
 # ---------------CINE-------------------
@@ -61,40 +64,29 @@ http://200.59.188.3:8000/play/a029
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN
-http://190.60.32.178:8178/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
-http://38.51.233.85:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
-http://181.78.8.90:16123/play/ch17
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
-http://38.51.233.85:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
-http://190.60.32.178:8178/play/a02x/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
-http://181.78.8.90:16123/play/ch18
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
-http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
-http://190.60.32.178:8178/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
-http://181.78.8.90:16123/play/ch19
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
-http://190.60.32.178:8178/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 6
-http://190.60.32.178:8178/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://209.45.20.210:50001/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://190.60.32.178:8178/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
-http://190.60.32.178:8178/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN Premium HD
-http://209.45.20.210:50001/play/a02p/index.m3u8
 
 
 # ---------------PELICULAS-------------------
 
+#EXTINF:-1 group-title="Bics DEPORTES", Espn Deportes
+http://supersonictv.live:8080/329474/903964/22222
+#EXTINF:-1 group-title="Bics DEPORTES", Espn
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsPsiEhUlS1TF1qXugAR5f3E/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Espn 2
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Espn 3
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
 
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Deportes Español
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports Premium
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqxiA-lzsuN24U2f3M6xz-jn5sYK0BNthSk0J2jHcI99/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports 2
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcuchcc0vF7WH/ts
+#EXTINF:-1 group-title="Bics DEPORTES", Fox Sports 3
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g64RRyYkiIRr/ts
+
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN US
+http://tvmate.icu:8080/Alan/Alan1234/82241
