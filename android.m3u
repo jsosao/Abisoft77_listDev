@@ -2,6 +2,8 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
 # ---------------DEPORTES-------------------
+#EXTINF:-1 group-title="DEPORTES", Espn Deportes
+http://supersonictv.live:8080/329474/903964/22222
 #EXTINF:-1 xui-id="212599" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JH6D17JoD_K7VPek2h92mXsDijUJsGl461YmN590LrAd.png" group-title="DEPORTES",ESPN 2 HD
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAopwixNwuAZPT0HJYpKnPEs/ts
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN Premium HD
@@ -10,6 +12,8 @@ http://200.59.188.3:8000/play/a0gh
 http://200.59.188.3:8000/play/a013
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN 3 HD
 http://200.59.188.3:8000/play/a011
+#EXTINF:-1 group-title="DEPORTES",ESPN 7
+http://190.60.32.178:8178/play/a02w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN US
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 xui-id="212459" tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 3" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JPJ8h20cgZDLkOeNl4LYOp5cPf-4a9LytgiCRHEezpTc7uLAv-_amPdpf7V31KvhVdeMpDTvzFPKonB8ZXVw5XM.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA 3
@@ -22,12 +26,14 @@ http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAr273y_3GRGMSHHiSDJNBXk/ts
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAmSxq1hZ86A2F0pU68nhapc/ts
 #EXTINF:-1 xui-id="212463" tvg-id="" tvg-name="CLARO SPORTS GT" tvg-logo="http://startv.solutions:80/images/qw9Sd5JnDX2uSQDrGmMcuhgZfVcZpmerblJzOfe2M50EQ9adzVbKtdSbM6XL1nLj.png" group-title="DEPORTES",CLARO SPORTS GT
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAoo3DrUP57gWGegabrkdbOM/ts
-#EXTINF:-1 group-title="DEPORTES",ESPN 7
-http://190.60.32.178:8178/play/a02w/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Espn Deportes
-http://supersonictv.live:8080/329474/903964/22222
-#EXTINF:-1 group-title="DEPORTES", CANAL INTERNET
-https://streamtp1.com/global1.php?stream=tudn_usa
+#EXTINF:-1,ES: MX - FOX SPORTS 2 HD
+http://899438987882912476.ofds1114.xyz:80/live/te411456/CCKKNSc7W9M/912476.ts
+#EXTINF:-1,ES: MX - FOX SPORTS 3 HD
+http://899438987882912477.ofds1114.xyz:80/live/te411456/CCKKNSc7W9M/912477.ts
+#EXTINF:-1,ES: MX - FOX SPORTS PREMIUM HD
+http://899438987882912478.ofds1114.xyz:80/live/te411456/CCKKNSc7W9M/912478.ts
+#EXTINF:-1,ES: MX - FOX SPORTS HD
+http://899438987882912479.ofds1114.xyz:80/live/te411456/CCKKNSc7W9M/912479.ts
 
 
 # ---------------CINE-------------------
