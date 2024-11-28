@@ -95,18 +95,12 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 xui-id="898748" tvg-name="Batman vs Superman: El amanecer de la Justicia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" group-title="▶️4K UHD",Batman vs Superman: El amanecer de la Justicia (2016)
 http://178.156.154.204:80/play/SWYLXR102eUOY6jR-E8IVHCH2yMFmF2QtIKeExSogNu6THsX0sjGl0pYhsTzCZJu
 
-#EXTINF:-1 xui-id="1457424" tvg-name="Robot salvaje (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg" group-title="▶️4K UHD",Robot salvaje (4K) (2024)
+#EXTINF:-1 tvg-name="Robot salvaje (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg" group-title="▶️4K UHD",Robot salvaje (4K) (2024)
 http://tvpremium.pro:80/play/SWYLXR102eUOY6jR-E8IVO6FOWr3PTS61YOCRpDituHhDB7l0X8iSKb_IkEqJBD2
 
-#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN DEPORTES USA" tvg-logo="https://a.espncdn.com/i/espn/networks_shows/radio/crops/500/espn_deportes_red.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN DEPORTES USA
-http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakSQnWEJOt-thGOP_rtNV0YGg.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 1 MX" tvg-logo="https://i.ibb.co/mR87M2r/1621.png" group-title="DEPORTES ʜᴅ",DHD | ESPN 1 MX
-http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakSeENgfQY2V50j-4jsIlQpWU.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHD |  ESPN 2 MX" tvg-logo="https://i.ibb.co/bWtRdWj/1622.png" group-title="DEPORTES ʜᴅ",DHD |  ESPN 2 MX
-http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakScoxyW0wIYigsGg_uXHwnLc.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 3 MX" tvg-logo="https://i.ibb.co/vz79VmC/1623.png" group-title="DEPORTES ʜᴅ",DHD | ESPN 3 MX
-http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakSX0smf5s2kbJLG-X9CGrL00.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHD | ESPN 4 MX" tvg-logo="https://i.ibb.co/4ZMm6xs/imagen-2024-02-20-174221154.png" group-title="⚽ DEPORTES ʜᴅ",DHD | ESPN 4 MX
-http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakSSgaUwYNx1F6NS373UP3mR8/ts
+#EXTINF:-1 tvg-name="Transformers One (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jzVCZxBmgvpGILuEU8icfX77Io.jpg" group-title="▶️4K UHD",Transformers One (4K) (2024)
+http://tvpremium.pro:80/play/SWYLXR102eUOY6jR-E8IVEjiv5AKuKDQjNBKQwB7Q2gLn-lNmfKRAiHZTVh3cWYY
 
+#EXTINF:-1 xui-id="1461483" tvg-name="Transformers One (4K) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jzVCZxBmgvpGILuEU8icfX77Io.jpg" group-title="▶️4K UHD",Transformers One (4K) (2024)
+http://tvpremium.pro:80/play/SWYLXR102eUOY6jR-E8IVEjiv5AKuKDQjNBKQwB7Q2gLn-lNmfKRAiHZTVh3cWYY
 
