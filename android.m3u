@@ -17,8 +17,12 @@ http://190.60.32.178:8178/play/a02w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN US
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m4MdZJh/LIGA-MX.jpg" group-title="DEPORTES",LIGA MX | TUDN USA
-http://178.156.154.204:80/play/9kUKZjOmWtKsrqk_3TakSdawdnXHhdf8y0zqzy1atJM/ts
+
+#EXTINF:-1 xui-id="167" tvg-id="" tvg-name="CINE Y SERIES | STUDIO UNIVERSAL FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/508.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | STUDIO UNIVERSAL FHD
+http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakSW-NWpYoYcn1lIqVWelJYF0/ts
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="CINE Y SERIES | TNT FHD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1502.png" group-title="⭐ CINE Y SERIES FHD",CINE Y SERIES | TNT FHD
+http://tvpremium.pro:80/play/9kUKZjOmWtKsrqk_3TakSeuxIZ27mbsyjfmqF5TaDZc/ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: TUDN HD" tvg-logo="https://lo1.in/mex/tudn.png" group-title="US | MEXICO",MX: TUDN HD
 http://glplus.me:8000/live/AZA676702423/149082120/85673549.ts
