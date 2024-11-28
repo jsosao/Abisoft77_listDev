@@ -20,6 +20,11 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4MdZJh/LIGA-MX.jpg" group-title="DEPORTES",LIGA MX | TUDN USA
 http://178.156.154.204:80/play/9kUKZjOmWtKsrqk_3TakSdawdnXHhdf8y0zqzy1atJM/ts
 
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN HD" tvg-logo="https://lo1.in/mex/tudn.png" group-title="US | MEXICO",MX: TUDN HD
+http://glplus.me:8000/live/AZA676702423/149082120/85673549.ts
+
+
+
 #EXTINF:-1 xui-id="212459" tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 3" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JPJ8h20cgZDLkOeNl4LYOp5cPf-4a9LytgiCRHEezpTc7uLAv-_amPdpf7V31KvhVdeMpDTvzFPKonB8ZXVw5XM.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA 3
 http://vip-latin.com:80/play/dx8xcJaY8wbDVv2ktFzVAh3g8IvSNGQEAZW35OAPP3w/ts
 #EXTINF:-1 xui-id="212460" tvg-id="" tvg-name="TIGO SPORTS GUATEMALA 2" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JPJ8h20cgZDLkOeNl4LYOp5cPf-4a9LytgiCRHEezpTc7uLAv-_amPdpf7V31KvhVdeMpDTvzFPKonB8ZXVw5XM.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA 2
