@@ -91,13 +91,7 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 # ---------------PELICULAS-------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS (Guatemala)" tvg-logo="https://i.ibb.co/YWhdKTG/39d3534b5ab52e388171b1c812c30737.png" group-title="DEPORTES LATINO AMERICA",CLARO SPORTS (Guatemala)
-http://playtvpremium.xyz:2095/56966423800play/281023play/307426
-
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Guatemala" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES PREMIUM",Tigo Sports Guatemala
-http://playtvpremium.xyz:2095/56966423800play/281023play/99712
-
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.ibb.co/T1ymgkP/1200x630wa.png" group-title="DEPORTES PREMIUM",TUDN
-http://playtvpremium.xyz:2095/56966423800play/281023play/99724
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/animal_planet.png" group-title="CULTURA",Animal Planet FHD
+http://playtvpremium.xyz:2095/56966423800play/281023play/99909
 
 
