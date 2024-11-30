@@ -89,27 +89,8 @@ http://200.59.188.3:8000/play/a029
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="EDUCACION",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-
 # ---------------PELICULAS-------------------
-
-#EXTINF:-1 xui-id="898748" tvg-name="Batman vs Superman: El amanecer de la Justicia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" group-title="▶️4K UHD",Batman vs Superman: El amanecer de la Justicia (2016)
-http://178.156.154.204:80/play/SWYLXR102eUOY6jR-E8IVHCH2yMFmF2QtIKeExSogNu6THsX0sjGl0pYhsTzCZJu
-
-#EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="FCL• TNT SPORTS (HD) »2«" tvg-logo="https://i.postimg.cc/zBkSFNCz/tntsportshd.png" group-title="CHILE",FCL• TNT SPORTS (HD) »2«
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/417210.ts
-#EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="FCL• TNT SPORTS (HD) »3«" tvg-logo="https://i.postimg.cc/zBkSFNCz/tntsportshd.png" group-title="CHILE",FCL• TNT SPORTS (HD) »3«
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/417209.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• TNT SPORTS (HD) »4«" tvg-logo="https://i.postimg.cc/zBkSFNCz/tntsportshd.png" group-title="CHILE",FCL• TNT SPORTS (HD) »4«
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/417208.ts
-#EXTINF:-1 tvg-id="AandE Network Canada" tvg-name="FCL• TNT SPORTS 2 (HD) »2«" tvg-logo="https://i.postimg.cc/T24Q7d81/tnt-sports-2.png" group-title="CHILE",FCL• TNT SPORTS 2 (HD) »2«
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/417206.ts
-#EXTINF:-1 tvg-id="2M Maroc" tvg-name="FCL• TNT SPORTS 2 (HD) »4«" tvg-logo="https://i.postimg.cc/T24Q7d81/tnt-sports-2.png" group-title="CHILE",FCL• TNT SPORTS 2 (HD) »4«
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/417204.ts
-#EXTINF:-1 tvg-id="2M Maroc" tvg-name="FCL• TNT SPORTS 3 (HD) »2«" tvg-logo="https://i.postimg.cc/5jWChkq7/tnt-sports-3.png" group-title="CHILE",FCL• TNT SPORTS 3 (HD) »2«
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/417202.ts
-#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CINECANAL HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CINECANAL HD
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/46108.ts
-#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CineCanal HD CH (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CineCanal HD CH (DTV)
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/46109.ts
-#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CineCanal HD MX (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CineCanal HD MX (DTV)
-http://totalplay.site:80/Jorge51335/uVjTCahXb5/46110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS4_4K" tvg-logo="http://images.cdn-pro-2024.xyz/bein/be4.png" group-title="beIN SPORTS 4K",beIN_SPORTS4_4K
+http://mhiptv.com:2095/mmhod38/sK8qH8Yby2/59337
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_SPORTS5_4K" tvg-logo="http://images.cdn-pro-2024.xyz/bein/be5.png" group-title="beIN SPORTS 4K",beIN_SPORTS5_4K
+http://mhiptv.com:2095/mmhod38/sK8qH8Yby2/59338
