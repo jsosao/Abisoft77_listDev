@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator II (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="Filme 2024",Gladiator II (2024)
+http://squid.game-tv.org:8080/movie/AlexandraAlbu/ewDXJRK/134340.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="19. LATIN / SPANISH",A&E
 http://tkosportz.live:25461/eharper9597/4439340369/99298
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/46391/adn40tv.png" group-title="19. LATIN / SPANISH",ADN 40
