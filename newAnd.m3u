@@ -1,287 +1,286 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : A&E" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="19. LATIN / SPANISH",LATINO : A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="19. LATIN / SPANISH",A&E
 http://tkosportz.live:25461/eharper9597/4439340369/99298
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ADN 40" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/46391/adn40tv.png" group-title="19. LATIN / SPANISH",LATINO : ADN 40
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/46391/adn40tv.png" group-title="19. LATIN / SPANISH",ADN 40
 http://tkosportz.live:25461/eharper9597/4439340369/99299
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AMC" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="19. LATIN / SPANISH",LATINO : AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="19. LATIN / SPANISH",AMC
 http://tkosportz.live:25461/eharper9597/4439340369/99300
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ANIMAL PLANET" tvg-logo="http://onlytimewilltell.xyz:2086/images/728379233ae6af8a0f9a9a236cae3715.png" group-title="19. LATIN / SPANISH",LATINO : ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://onlytimewilltell.xyz:2086/images/728379233ae6af8a0f9a9a236cae3715.png" group-title="19. LATIN / SPANISH",ANIMAL PLANET
 http://tkosportz.live:25461/eharper9597/4439340369/99301
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ANTENA 3" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/24802/antena3tvchannel.png" group-title="19. LATIN / SPANISH",LATINO : ANTENA 3
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/24802/antena3tvchannel.png" group-title="19. LATIN / SPANISH",ANTENA 3
 http://tkosportz.live:25461/eharper9597/4439340369/99302
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ASPIRE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/e89451d4-14d5-4a67-a065-8b9a00cd1f17.png" group-title="19. LATIN / SPANISH",LATINO : ASPIRE
+#EXTINF:-1 tvg-id="" tvg-name="ASPIRE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/e89451d4-14d5-4a67-a065-8b9a00cd1f17.png" group-title="19. LATIN / SPANISH",ASPIRE
 http://tkosportz.live:25461/eharper9597/4439340369/99303
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AXN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/axn.png" group-title="19. LATIN / SPANISH",LATINO : AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/axn.png" group-title="19. LATIN / SPANISH",AXN
 http://tkosportz.live:25461/eharper9597/4439340369/99304
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZ CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Corazón_logo.svg/400px-TV_Azteca_Corazón_logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : AZ CORAZON
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Corazón_logo.svg/400px-TV_Azteca_Corazón_logo.svg.png" group-title="19. LATIN / SPANISH",AZ CORAZON
 http://tkosportz.live:25461/eharper9597/4439340369/99305
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA 7" tvg-logo="http://onlytimewilltell.xyz:2086/images/d785a3370974af61005bacaec70d4db7.jpg" group-title="19. LATIN / SPANISH",LATINO : AZTECA 7
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="http://onlytimewilltell.xyz:2086/images/d785a3370974af61005bacaec70d4db7.jpg" group-title="19. LATIN / SPANISH",AZTECA 7
 http://tkosportz.live:25461/eharper9597/4439340369/99306
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/245px-Azteca_UNO_logo_2020.webp.png" group-title="19. LATIN / SPANISH",LATINO : AZTECA UNO
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/245px-Azteca_UNO_logo_2020.webp.png" group-title="19. LATIN / SPANISH",AZTECA UNO
 http://tkosportz.live:25461/eharper9597/4439340369/99307
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : BANDAMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/440px-Bandamax_logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : BANDAMAX
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/440px-Bandamax_logo.svg.png" group-title="19. LATIN / SPANISH",BANDAMAX
 http://tkosportz.live:25461/eharper9597/4439340369/99308
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : BOOMERANG" tvg-logo="http://onlytimewilltell.xyz:2086/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="19. LATIN / SPANISH",LATINO : BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://onlytimewilltell.xyz:2086/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="19. LATIN / SPANISH",BOOMERANG
 http://tkosportz.live:25461/eharper9597/4439340369/99309
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL 22 INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/220px-Logo_XEIMT-TV.svg.png" group-title="19. LATIN / SPANISH",LATINO : CANAL 22 INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 22 INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/220px-Logo_XEIMT-TV.svg.png" group-title="19. LATIN / SPANISH",CANAL 22 INTERNACIONAL
 http://tkosportz.live:25461/eharper9597/4439340369/99310
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL DE LAS ESTRELLAS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3dba6489db3b822a41b9f6e46f2e3cf5.png" group-title="19. LATIN / SPANISH",LATINO : CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3dba6489db3b822a41b9f6e46f2e3cf5.png" group-title="19. LATIN / SPANISH",CANAL DE LAS ESTRELLAS
 http://tkosportz.live:25461/eharper9597/4439340369/99311
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/250px-Caracol_Televisi%C3%B3n_logo_2023.png" group-title="19. LATIN / SPANISH",LATINO : CARACOL
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/250px-Caracol_Televisi%C3%B3n_logo_2023.png" group-title="19. LATIN / SPANISH",CARACOL
 http://tkosportz.live:25461/eharper9597/4439340369/99312
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARTOON NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="19. LATIN / SPANISH",LATINO : CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="19. LATIN / SPANISH",CARTOON NETWORK
 http://tkosportz.live:25461/eharper9597/4439340369/99313
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CENTRO AMERICA TV" tvg-logo="https://seeklogo.com/images/C/centroamerica-tv-logo-340A62256A-seeklogo.com.png" group-title="19. LATIN / SPANISH",LATINO : CENTRO AMERICA TV
+#EXTINF:-1 tvg-id="" tvg-name="CENTRO AMERICA TV" tvg-logo="https://seeklogo.com/images/C/centroamerica-tv-logo-340A62256A-seeklogo.com.png" group-title="19. LATIN / SPANISH",CENTRO AMERICA TV
 http://tkosportz.live:25461/eharper9597/4439340369/99314
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE ESTELAR" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/22247/cineestelartv.png" group-title="19. LATIN / SPANISH",LATINO : CINE ESTELAR
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/22247/cineestelartv.png" group-title="19. LATIN / SPANISH",CINE ESTELAR
 http://tkosportz.live:25461/eharper9597/4439340369/99315
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE MEXICANO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28477/cinemexicanotv.png" group-title="19. LATIN / SPANISH",LATINO : CINE MEXICANO
+#EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28477/cinemexicanotv.png" group-title="19. LATIN / SPANISH",CINE MEXICANO
 http://tkosportz.live:25461/eharper9597/4439340369/99316
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE NOSTALGIA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/13007/cinenostalgiatv.png" group-title="19. LATIN / SPANISH",LATINO : CINE NOSTALGIA
+#EXTINF:-1 tvg-id="" tvg-name="CINE NOSTALGIA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/13007/cinenostalgiatv.png" group-title="19. LATIN / SPANISH",CINE NOSTALGIA
 http://tkosportz.live:25461/eharper9597/4439340369/99317
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Cinesony.png" group-title="19. LATIN / SPANISH",LATINO : CINE SONY
+#EXTINF:-1 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Cinesony.png" group-title="19. LATIN / SPANISH",CINE SONY
 http://tkosportz.live:25461/eharper9597/4439340369/99318
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINEMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="19. LATIN / SPANISH",LATINO : CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="19. LATIN / SPANISH",CINEMAX
 http://tkosportz.live:25461/eharper9597/4439340369/99319
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CNN EN ESPANOL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnn.png" group-title="19. LATIN / SPANISH",LATINO : CNN EN ESPANOL
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPANOL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnn.png" group-title="19. LATIN / SPANISH",CNN EN ESPANOL
 http://tkosportz.live:25461/eharper9597/4439340369/99320
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CNN INTERNACIONAL" tvg-logo="http://mains.vip:2086/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="19. LATIN / SPANISH",LATINO : CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="http://mains.vip:2086/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="19. LATIN / SPANISH",CNN INTERNACIONAL
 http://tkosportz.live:25461/eharper9597/4439340369/99321
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : COMEDY CENTRAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="19. LATIN / SPANISH",LATINO : COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="19. LATIN / SPANISH",COMEDY CENTRAL
 http://tkosportz.live:25461/eharper9597/4439340369/99322
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DE PELICULA" tvg-logo="http://onlytimewilltell.xyz:2086/images/097812887a35e2b737bfc8d07a6d7fb4.png" group-title="19. LATIN / SPANISH",LATINO : DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="http://onlytimewilltell.xyz:2086/images/097812887a35e2b737bfc8d07a6d7fb4.png" group-title="19. LATIN / SPANISH",DE PELICULA
 http://tkosportz.live:25461/eharper9597/4439340369/99323
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DE PELICULA CLASICO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/13674/dpclasicotv.png" group-title="19. LATIN / SPANISH",LATINO : DE PELICULA CLASICO
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/13674/dpclasicotv.png" group-title="19. LATIN / SPANISH",DE PELICULA CLASICO
 http://tkosportz.live:25461/eharper9597/4439340369/99324
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DESTINATION AMERICA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/destinationamerica.png" group-title="19. LATIN / SPANISH",LATINO : DESTINATION AMERICA
+#EXTINF:-1 tvg-id="" tvg-name="DESTINATION AMERICA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/destinationamerica.png" group-title="19. LATIN / SPANISH",DESTINATION AMERICA
 http://tkosportz.live:25461/eharper9597/4439340369/99325
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discovery-canada.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discovery-canada.png" group-title="19. LATIN / SPANISH",DISCOVERY CHANNEL
 http://tkosportz.live:25461/eharper9597/4439340369/99326
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY EN ESPANOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3936/discesp_colordark.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY EN ESPANOL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY EN ESPANOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3936/discesp_colordark.png" group-title="19. LATIN / SPANISH",DISCOVERY EN ESPANOL
 http://tkosportz.live:25461/eharper9597/4439340369/99327
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY FAMILIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png" group-title="19. LATIN / SPANISH",DISCOVERY FAMILIA
 http://tkosportz.live:25461/eharper9597/4439340369/99328
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY HOME & HEALTH" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/DISCHH.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/DISCHH.png" group-title="19. LATIN / SPANISH",DISCOVERY HOME & HEALTH
 http://tkosportz.live:25461/eharper9597/4439340369/99329
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY ID" tvg-logo="http://onlytimewilltell.xyz:2086/images/efc67e36f06a3060c221e7ac26c3be67.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY ID
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://onlytimewilltell.xyz:2086/images/efc67e36f06a3060c221e7ac26c3be67.png" group-title="19. LATIN / SPANISH",DISCOVERY ID
 http://tkosportz.live:25461/eharper9597/4439340369/99330
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY KIDS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoverykidslatinamerica.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoverykidslatinamerica.png" group-title="19. LATIN / SPANISH",DISCOVERY KIDS
 http://tkosportz.live:25461/eharper9597/4439340369/99331
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY SCIENCE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disc-science-canada.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disc-science-canada.png" group-title="19. LATIN / SPANISH",DISCOVERY SCIENCE
 http://tkosportz.live:25461/eharper9597/4439340369/99332
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/250px-2015_Discovery_theater_HD_logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY THEATER
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/250px-2015_Discovery_theater_HD_logo.svg.png" group-title="19. LATIN / SPANISH",DISCOVERY THEATER
 http://tkosportz.live:25461/eharper9597/4439340369/99333
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY TURBO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/54216/discturbo_colordark.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/54216/discturbo_colordark.png" group-title="19. LATIN / SPANISH",DISCOVERY TURBO
 http://tkosportz.live:25461/eharper9597/4439340369/99334
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY WORLD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28441/DiscoveryWorldHD1_92x36.png" group-title="19. LATIN / SPANISH",LATINO : DISCOVERY WORLD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28441/DiscoveryWorldHD1_92x36.png" group-title="19. LATIN / SPANISH",DISCOVERY WORLD
 http://tkosportz.live:25461/eharper9597/4439340369/99335
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="19. LATIN / SPANISH",LATINO : DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="19. LATIN / SPANISH",DISNEY CHANNEL
 http://tkosportz.live:25461/eharper9597/4439340369/99336
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY JUNIOR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="19. LATIN / SPANISH",LATINO : DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="19. LATIN / SPANISH",DISNEY JUNIOR
 http://tkosportz.live:25461/eharper9597/4439340369/99337
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY XD" tvg-logo="http://onlytimewilltell.xyz:2086/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="19. LATIN / SPANISH",LATINO : DISNEY XD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://onlytimewilltell.xyz:2086/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="19. LATIN / SPANISH",DISNEY XD
 http://tkosportz.live:25461/eharper9597/4439340369/99338
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/200px-DistritoComediaLOGO2018.png" group-title="19. LATIN / SPANISH",LATINO : DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/200px-DistritoComediaLOGO2018.png" group-title="19. LATIN / SPANISH",DISTRITO COMEDIA
 http://tkosportz.live:25461/eharper9597/4439340369/99339
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : E!" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6ff6e3f241258033c6559e023e0cb50.png" group-title="19. LATIN / SPANISH",LATINO : E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6ff6e3f241258033c6559e023e0cb50.png" group-title="19. LATIN / SPANISH",E!
 http://tkosportz.live:25461/eharper9597/4439340369/99340
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/120px-Logo_Ecuavisa.svg.png" group-title="19. LATIN / SPANISH",LATINO : ECUAVISA INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/120px-Logo_Ecuavisa.svg.png" group-title="19. LATIN / SPANISH",ECUAVISA INTERNACIONAL
 http://tkosportz.live:25461/eharper9597/4439340369/99341
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/100px-Elgourmetlogo2015.png" group-title="19. LATIN / SPANISH",LATINO : EL GOURMET
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/100px-Elgourmetlogo2015.png" group-title="19. LATIN / SPANISH",EL GOURMET
 http://tkosportz.live:25461/eharper9597/4439340369/99342
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ENLACE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Enlace_TBN_USA.png" group-title="19. LATIN / SPANISH",LATINO : ENLACE
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Enlace_TBN_USA.png" group-title="19. LATIN / SPANISH",ENLACE
 http://tkosportz.live:25461/eharper9597/4439340369/99343
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN" tvg-logo="http://onlytimewilltell.xyz:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="19. LATIN / SPANISH",LATINO : ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://onlytimewilltell.xyz:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="19. LATIN / SPANISH",ESPN
 http://tkosportz.live:25461/eharper9597/4439340369/99344
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="19. LATIN / SPANISH",LATINO : ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="19. LATIN / SPANISH",ESPN 2
 http://tkosportz.live:25461/eharper9597/4439340369/99345
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/cdd6ea69033dc3927861c36bb82703b7.png" group-title="19. LATIN / SPANISH",LATINO : ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/cdd6ea69033dc3927861c36bb82703b7.png" group-title="19. LATIN / SPANISH",ESPN 3
 http://tkosportz.live:25461/eharper9597/4439340369/99346
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9976/espndeporteschannel.png" group-title="19. LATIN / SPANISH",LATINO : ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9976/espndeporteschannel.png" group-title="19. LATIN / SPANISH",ESPN DEPORTES
 http://tkosportz.live:25461/eharper9597/4439340369/99347
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/250px-Estrella_TV_2020_Logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/250px-Estrella_TV_2020_Logo.svg.png" group-title="19. LATIN / SPANISH",ESTRELLA TV
 http://tkosportz.live:25461/eharper9597/4439340369/99348
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fuse_Music.svg/220px-Fuse_Music.svg.png" group-title="19. LATIN / SPANISH",LATINO : FM
+#EXTINF:-1 tvg-id="" tvg-name="FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fuse_Music.svg/220px-Fuse_Music.svg.png" group-title="19. LATIN / SPANISH",FM
 http://tkosportz.live:25461/eharper9597/4439340369/99349
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOOD NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/110eae003165e6c2a9b21112e100b6e1.png" group-title="19. LATIN / SPANISH",LATINO : FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/110eae003165e6c2a9b21112e100b6e1.png" group-title="19. LATIN / SPANISH",FOOD NETWORK
 http://tkosportz.live:25461/eharper9597/4439340369/99350
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/220px-Logo-ForoTV-2016.png" group-title="19. LATIN / SPANISH",LATINO : FORO TV
+#EXTINF:-1 tvg-id="" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/220px-Logo-ForoTV-2016.png" group-title="19. LATIN / SPANISH",FORO TV
 http://tkosportz.live:25461/eharper9597/4439340369/99351
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX ACTION" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/20300/foxpremiumactionchannel.png" group-title="19. LATIN / SPANISH",LATINO : FOX ACTION
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/20300/foxpremiumactionchannel.png" group-title="19. LATIN / SPANISH",FOX ACTION
 http://tkosportz.live:25461/eharper9597/4439340369/99352
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="19. LATIN / SPANISH",LATINO : FOX SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="19. LATIN / SPANISH",FOX SPORTS 1
 http://tkosportz.live:25461/eharper9597/4439340369/99353
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foxsports2.png" group-title="19. LATIN / SPANISH",LATINO : FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foxsports2.png" group-title="19. LATIN / SPANISH",FOX SPORTS 2
 http://tkosportz.live:25461/eharper9597/4439340369/99354
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/250?cb=20160412195331" group-title="19. LATIN / SPANISH",LATINO : FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/250?cb=20160412195331" group-title="19. LATIN / SPANISH",FOX SPORTS 3
 http://tkosportz.live:25461/eharper9597/4439340369/99355
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FX" tvg-logo="http://onlytimewilltell.xyz:2086/images/fef91eca48e4057e69caae96cd0ace8b.png" group-title="19. LATIN / SPANISH",LATINO : FX
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://onlytimewilltell.xyz:2086/images/fef91eca48e4057e69caae96cd0ace8b.png" group-title="19. LATIN / SPANISH",FX
 http://tkosportz.live:25461/eharper9597/4439340369/99356
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FXM" tvg-logo="http://onlytimewilltell.xyz:2086/images/572c5080291f3af4654874703182509f.png" group-title="19. LATIN / SPANISH",LATINO : FXM
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="http://onlytimewilltell.xyz:2086/images/572c5080291f3af4654874703182509f.png" group-title="19. LATIN / SPANISH",FXM
 http://tkosportz.live:25461/eharper9597/4439340369/99357
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GALAVISION" tvg-logo="http://onlytimewilltell.xyz:2086/images/b20c6e8271fd48191b850c341dc3c3fa.png" group-title="19. LATIN / SPANISH",LATINO : GALAVISION
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="http://onlytimewilltell.xyz:2086/images/b20c6e8271fd48191b850c341dc3c3fa.png" group-title="19. LATIN / SPANISH",GALAVISION
 http://tkosportz.live:25461/eharper9597/4439340369/99358
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GARAGE TV" tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="19. LATIN / SPANISH",LATINO : GARAGE TV
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="19. LATIN / SPANISH",GARAGE TV
 http://tkosportz.live:25461/eharper9597/4439340369/99359
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/220px-Glitzlogo.png" group-title="19. LATIN / SPANISH",LATINO : GLITZ
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/220px-Glitzlogo.png" group-title="19. LATIN / SPANISH",GLITZ
 http://tkosportz.live:25461/eharper9597/4439340369/99360
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOL TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="19. LATIN / SPANISH",LATINO : GOL TV
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="19. LATIN / SPANISH",GOL TV
 http://tkosportz.live:25461/eharper9597/4439340369/99361
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="19. LATIN / SPANISH",LATINO : GOLDEN
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="19. LATIN / SPANISH",GOLDEN
 http://tkosportz.live:25461/eharper9597/4439340369/99362
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOLDEN EDGE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest/scale-to-width-down/340?cb=20120110075418" group-title="19. LATIN / SPANISH",LATINO : GOLDEN EDGE
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest/scale-to-width-down/340?cb=20120110075418" group-title="19. LATIN / SPANISH",GOLDEN EDGE
 http://tkosportz.live:25461/eharper9597/4439340369/99363
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png" group-title="19. LATIN / SPANISH",LATINO : HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png" group-title="19. LATIN / SPANISH",HBO
 http://tkosportz.live:25461/eharper9597/4439340369/99364
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png" group-title="19. LATIN / SPANISH",LATINO : HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png" group-title="19. LATIN / SPANISH",HBO 2
 http://tkosportz.live:25461/eharper9597/4439340369/99365
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO FAMILY" tvg-logo="http://onlytimewilltell.xyz:2086/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="19. LATIN / SPANISH",LATINO : HBO FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://onlytimewilltell.xyz:2086/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="19. LATIN / SPANISH",HBO FAMILY
 http://tkosportz.live:25461/eharper9597/4439340369/99366
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO LATINO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo_latino.png" group-title="19. LATIN / SPANISH",LATINO : HBO LATINO
+#EXTINF:-1 tvg-id="" tvg-name="HBO LATINO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo_latino.png" group-title="19. LATIN / SPANISH",HBO LATINO
 http://tkosportz.live:25461/eharper9597/4439340369/99367
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO SIGNATURE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-signature.png" group-title="19. LATIN / SPANISH",LATINO : HBO SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-signature.png" group-title="19. LATIN / SPANISH",HBO SIGNATURE
 http://tkosportz.live:25461/eharper9597/4439340369/99368
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history.png" group-title="19. LATIN / SPANISH",LATINO : HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history.png" group-title="19. LATIN / SPANISH",HISTORY
 http://tkosportz.live:25461/eharper9597/4439340369/99369
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/870aa7be5851989282aa84bc08179cb6.png" group-title="19. LATIN / SPANISH",LATINO : HISTORY 2
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/870aa7be5851989282aa84bc08179cb6.png" group-title="19. LATIN / SPANISH",HISTORY 2
 http://tkosportz.live:25461/eharper9597/4439340369/99370
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY EN ESPANOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/43150/historyenespanoltv.png" group-title="19. LATIN / SPANISH",LATINO : HISTORY EN ESPANOL
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY EN ESPANOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/43150/historyenespanoltv.png" group-title="19. LATIN / SPANISH",HISTORY EN ESPANOL
 http://tkosportz.live:25461/eharper9597/4439340369/99371
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HITN" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/8377/hitnchannel.png" group-title="19. LATIN / SPANISH",LATINO : HITN
+#EXTINF:-1 tvg-id="" tvg-name="HITN" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/8377/hitnchannel.png" group-title="19. LATIN / SPANISH",HITN
 http://tkosportz.live:25461/eharper9597/4439340369/99372
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HLN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hln.png" group-title="19. LATIN / SPANISH",LATINO : HLN
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hln.png" group-title="19. LATIN / SPANISH",HLN
 http://tkosportz.live:25461/eharper9597/4439340369/99373
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HOLA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/45869/holatelevision.png" group-title="19. LATIN / SPANISH",LATINO : HOLA TV
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/45869/holatelevision.png" group-title="19. LATIN / SPANISH",HOLA TV
 http://tkosportz.live:25461/eharper9597/4439340369/99374
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : LAS ESTRELLAS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/5019/lasestrellas_colordark.png" group-title="19. LATIN / SPANISH",LATINO : LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/5019/lasestrellas_colordark.png" group-title="19. LATIN / SPANISH",LAS ESTRELLAS
 http://tkosportz.live:25461/eharper9597/4439340369/99375
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : LIFETIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lifetime19.png" group-title="19. LATIN / SPANISH",LATINO : LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lifetime19.png" group-title="19. LATIN / SPANISH",LIFETIME
 http://tkosportz.live:25461/eharper9597/4439340369/99376
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Más_Chic_%28canal_de_televisión%29.svg/250px-Logo_Más_Chic_%28canal_de_televisión%29.svg.png" group-title="19. LATIN / SPANISH",LATINO : MAS CHIC
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Más_Chic_%28canal_de_televisión%29.svg/250px-Logo_Más_Chic_%28canal_de_televisión%29.svg.png" group-title="19. LATIN / SPANISH",MAS CHIC
 http://tkosportz.live:25461/eharper9597/4439340369/99377
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : MAX PRIME
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="19. LATIN / SPANISH",MAX PRIME
 http://tkosportz.live:25461/eharper9597/4439340369/99378
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAX UP" tvg-logo="https://tectelevisao.com.br/wp-content/uploads/2019/04/max-up.png" group-title="19. LATIN / SPANISH",LATINO : MAX UP
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://tectelevisao.com.br/wp-content/uploads/2019/04/max-up.png" group-title="19. LATIN / SPANISH",MAX UP
 http://tkosportz.live:25461/eharper9597/4439340369/99379
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MULTIMEDIOS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/23322/multimedio_light.png" group-title="19. LATIN / SPANISH",LATINO : MULTIMEDIOS
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/23322/multimedio_light.png" group-title="19. LATIN / SPANISH",MULTIMEDIOS
 http://tkosportz.live:25461/eharper9597/4439340369/99380
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO" tvg-logo="http://onlytimewilltell.xyz:2086/images/72ff2fd91d37dc1bb59d28a56383a5bd.png" group-title="19. LATIN / SPANISH",LATINO : NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://onlytimewilltell.xyz:2086/images/72ff2fd91d37dc1bb59d28a56383a5bd.png" group-title="19. LATIN / SPANISH",NAT GEO
 http://tkosportz.live:25461/eharper9597/4439340369/99381
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO MUNDO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/29849/natgeomundotv.png" group-title="19. LATIN / SPANISH",LATINO : NAT GEO MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/29849/natgeomundotv.png" group-title="19. LATIN / SPANISH",NAT GEO MUNDO
 http://tkosportz.live:25461/eharper9597/4439340369/99382
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO WILD" tvg-logo="http://onlytimewilltell.xyz:2086/images/fc0e002967e7b2f0bf1e4417eb7b11e5.png" group-title="19. LATIN / SPANISH",LATINO : NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://onlytimewilltell.xyz:2086/images/fc0e002967e7b2f0bf1e4417eb7b11e5.png" group-title="19. LATIN / SPANISH",NAT GEO WILD
 http://tkosportz.live:25461/eharper9597/4439340369/99383
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NBC UNIVERSO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3861/universochannel.png" group-title="19. LATIN / SPANISH",LATINO : NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3861/universochannel.png" group-title="19. LATIN / SPANISH",NBC UNIVERSO
 http://tkosportz.live:25461/eharper9597/4439340369/99384
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickjr.png" group-title="19. LATIN / SPANISH",LATINO : NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickjr.png" group-title="19. LATIN / SPANISH",NICK JR
 http://tkosportz.live:25461/eharper9597/4439340369/99385
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK TOONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="19. LATIN / SPANISH",LATINO : NICK TOONS
+#EXTINF:-1 tvg-id="" tvg-name="NICK TOONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="19. LATIN / SPANISH",NICK TOONS
 http://tkosportz.live:25461/eharper9597/4439340369/99386
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICKELODEON" tvg-logo="http://onlytimewilltell.xyz:2086/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="19. LATIN / SPANISH",LATINO : NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://onlytimewilltell.xyz:2086/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="19. LATIN / SPANISH",NICKELODEON
 http://tkosportz.live:25461/eharper9597/4439340369/99387
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NTN24" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/86545/ntn24tv_colordark.png" group-title="19. LATIN / SPANISH",LATINO : NTN24
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/86545/ntn24tv_colordark.png" group-title="19. LATIN / SPANISH",NTN24
 http://tkosportz.live:25461/eharper9597/4439340369/99388
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NUESTRA TELE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/16257/nuestrateletelevision_colordark.png" group-title="19. LATIN / SPANISH",LATINO : NUESTRA TELE
+#EXTINF:-1 tvg-id="" tvg-name="NUESTRA TELE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/16257/nuestrateletelevision_colordark.png" group-title="19. LATIN / SPANISH",NUESTRA TELE
 http://tkosportz.live:25461/eharper9597/4439340369/99389
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : PASIONES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36704/pasionestelevision.png" group-title="19. LATIN / SPANISH",LATINO : PASIONES
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36704/pasionestelevision.png" group-title="19. LATIN / SPANISH",PASIONES
 http://tkosportz.live:25461/eharper9597/4439340369/99390
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : PERU MAGICO" tvg-logo="http://onlytimewilltell.xyz:2086/images/ea6626ca0344edfc9a18e3d420c99f41.png" group-title="19. LATIN / SPANISH",LATINO : PERU MAGICO
+#EXTINF:-1 tvg-id="" tvg-name="PERU MAGICO" tvg-logo="http://onlytimewilltell.xyz:2086/images/ea6626ca0344edfc9a18e3d420c99f41.png" group-title="19. LATIN / SPANISH",PERU MAGICO
 http://tkosportz.live:25461/eharper9597/4439340369/99391
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/CanalRCNTV.svg/440px-CanalRCNTV.svg.png" group-title="19. LATIN / SPANISH",LATINO : RCN
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/CanalRCNTV.svg/440px-CanalRCNTV.svg.png" group-title="19. LATIN / SPANISH",RCN
 http://tkosportz.live:25461/eharper9597/4439340369/99392
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="19. LATIN / SPANISH",LATINO : SHOWTIME
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="19. LATIN / SPANISH",SHOWTIME
 http://tkosportz.live:25461/eharper9597/4439340369/99393
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="19. LATIN / SPANISH",LATINO : SHOWTIME EAST
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="19. LATIN / SPANISH",SHOWTIME EAST
 http://tkosportz.live:25461/eharper9597/4439340369/99394
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SONY CHANNEL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/23086/sonychanneltv.png" group-title="19. LATIN / SPANISH",LATINO : SONY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/23086/sonychanneltv.png" group-title="19. LATIN / SPANISH",SONY CHANNEL
 http://tkosportz.live:25461/eharper9597/4439340369/99395
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SPACE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/space-latam.png" group-title="19. LATIN / SPANISH",LATINO : SPACE
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/space-latam.png" group-title="19. LATIN / SPANISH",SPACE
 http://tkosportz.live:25461/eharper9597/4439340369/99396
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/420/starztv.png" group-title="19. LATIN / SPANISH",LATINO : STARZ
+#EXTINF:-1 tvg-id="" tvg-name="STARZ" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/420/starztv.png" group-title="19. LATIN / SPANISH",STARZ
 http://tkosportz.live:25461/eharper9597/4439340369/99397
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE ESPAÑOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/29909/starzencoreespanoltv.png" group-title="19. LATIN / SPANISH",LATINO : STARZ ENCORE ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE ESPAÑOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/29909/starzencoreespanoltv.png" group-title="19. LATIN / SPANISH",STARZ ENCORE ESPAÑOL
 http://tkosportz.live:25461/eharper9597/4439340369/99398
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STUDIO UNIVERSAL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/35256/studiouniversaltv_colordark.png" group-title="19. LATIN / SPANISH",LATINO : STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/35256/studiouniversaltv_colordark.png" group-title="19. LATIN / SPANISH",STUDIO UNIVERSAL
 http://tkosportz.live:25461/eharper9597/4439340369/99399
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SUR PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="19. LATIN / SPANISH",LATINO : SUR PERU
+#EXTINF:-1 tvg-id="" tvg-name="SUR PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="19. LATIN / SPANISH",SUR PERU
 http://tkosportz.live:25461/eharper9597/4439340369/99400
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SYFY" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9196/syfychannel.png" group-title="19. LATIN / SPANISH",LATINO : SYFY
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9196/syfychannel.png" group-title="19. LATIN / SPANISH",SYFY
 http://tkosportz.live:25461/eharper9597/4439340369/99401
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TBS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/410/tbschannel.png" group-title="19. LATIN / SPANISH",LATINO : TBS
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/410/tbschannel.png" group-title="19. LATIN / SPANISH",TBS
 http://tkosportz.live:25461/eharper9597/4439340369/99402
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TCM" tvg-logo="http://onlytimewilltell.xyz:2086/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="19. LATIN / SPANISH",LATINO : TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://onlytimewilltell.xyz:2086/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="19. LATIN / SPANISH",TCM
 http://tkosportz.live:25461/eharper9597/4439340369/99403
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telecentro.png/300px-Telecentro.png" group-title="19. LATIN / SPANISH",LATINO : TELECENTRO
+#EXTINF:-1 tvg-id="" tvg-name="TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telecentro.png/300px-Telecentro.png" group-title="19. LATIN / SPANISH",TELECENTRO
 http://tkosportz.live:25461/eharper9597/4439340369/99404
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEFE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3963/telefetv.png" group-title="19. LATIN / SPANISH",LATINO : TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3963/telefetv.png" group-title="19. LATIN / SPANISH",TELEFE
 http://tkosportz.live:25461/eharper9597/4439340369/99405
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",LATINO : TELEMUNDO
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",TELEMUNDO
 http://tkosportz.live:25461/eharper9597/4439340369/99406
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO INTERNATIONAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",LATINO : TELEMUNDO INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNATIONAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",TELEMUNDO INTERNATIONAL
 http://tkosportz.live:25461/eharper9597/4439340369/99407
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO WEST" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",LATINO : TELEMUNDO WEST
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO WEST" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",TELEMUNDO WEST
 http://tkosportz.live:25461/eharper9597/4439340369/99408
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Telenovela_Channel_logo.jpg/240px-Telenovela_Channel_logo.jpg" group-title="19. LATIN / SPANISH",LATINO : TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Telenovela_Channel_logo.jpg/240px-Telenovela_Channel_logo.jpg" group-title="19. LATIN / SPANISH",TELENOVELAS
 http://tkosportz.live:25461/eharper9597/4439340369/99409
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TLC" tvg-logo="http://onlytimewilltell.xyz:2086/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="19. LATIN / SPANISH",LATINO : TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://onlytimewilltell.xyz:2086/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="19. LATIN / SPANISH",TLC
 http://tkosportz.live:25461/eharper9597/4439340369/99410
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png" group-title="19. LATIN / SPANISH",LATINO : TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png" group-title="19. LATIN / SPANISH",TNT SERIES
 http://tkosportz.live:25461/eharper9597/4439340369/99411
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TOONCAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="19. LATIN / SPANISH",LATINO : TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="19. LATIN / SPANISH",TOONCAST
 http://tkosportz.live:25461/eharper9597/4439340369/99412
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TR3S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/200px-MTV_Tres_2010_logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : TR3S
+#EXTINF:-1 tvg-id="" tvg-name="TR3S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/200px-MTV_Tres_2010_logo.svg.png" group-title="19. LATIN / SPANISH",TR3S
 http://tkosportz.live:25461/eharper9597/4439340369/99413
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TRU TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/77726/trutv.png" group-title="19. LATIN / SPANISH",LATINO : TRU TV
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/77726/trutv.png" group-title="19. LATIN / SPANISH",TRU TV
 http://tkosportz.live:25461/eharper9597/4439340369/99414
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : TUDN
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png" group-title="19. LATIN / SPANISH",TUDN
 http://tkosportz.live:25461/eharper9597/4439340369/99415
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TV CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/400px-Logotipo_de_TV_Chile.svg.png" group-title="19. LATIN / SPANISH",LATINO : TV CHILE
+#EXTINF:-1 tvg-id="" tvg-name="TV CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/400px-Logotipo_de_TV_Chile.svg.png" group-title="19. LATIN / SPANISH",TV CHILE
 http://tkosportz.live:25461/eharper9597/4439340369/99416
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TVOne_2016.png/220px-TVOne_2016.png" group-title="19. LATIN / SPANISH",LATINO : TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TVOne_2016.png/220px-TVOne_2016.png" group-title="19. LATIN / SPANISH",TV ONE
 http://tkosportz.live:25461/eharper9597/4439340369/99417
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TVE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/5056/tveintchannel.png" group-title="19. LATIN / SPANISH",LATINO : TVE
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/5056/tveintchannel.png" group-title="19. LATIN / SPANISH",TVE
 http://tkosportz.live:25461/eharper9597/4439340369/99418
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/200px-TyC_Sports_logo.svg.png" group-title="19. LATIN / SPANISH",LATINO : TYC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/200px-TyC_Sports_logo.svg.png" group-title="19. LATIN / SPANISH",TYC SPORTS
 http://tkosportz.live:25461/eharper9597/4439340369/99419
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS" tvg-logo="http://onlytimewilltell.xyz:2086/images/132a2f58814ad3529202979b2ea8db68.png" group-title="19. LATIN / SPANISH",LATINO : UNIMAS
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="http://onlytimewilltell.xyz:2086/images/132a2f58814ad3529202979b2ea8db68.png" group-title="19. LATIN / SPANISH",UNIMAS
 http://tkosportz.live:25461/eharper9597/4439340369/99420
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/132a2f58814ad3529202979b2ea8db68.png" group-title="19. LATIN / SPANISH",LATINO : UNIMAS EAST
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/132a2f58814ad3529202979b2ea8db68.png" group-title="19. LATIN / SPANISH",UNIMAS EAST
 http://tkosportz.live:25461/eharper9597/4439340369/99421
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="19. LATIN / SPANISH",LATINO : UNIMAS WEST
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="19. LATIN / SPANISH",UNIMAS WEST
 http://tkosportz.live:25461/eharper9597/4439340369/99422
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVERSAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/a60c5cd6eb19ec270026475e63cc0e83.png" group-title="19. LATIN / SPANISH",LATINO : UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/a60c5cd6eb19ec270026475e63cc0e83.png" group-title="19. LATIN / SPANISH",UNIVERSAL
 http://tkosportz.live:25461/eharper9597/4439340369/99423
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION (KUVN) DALLAS" tvg-logo="http://onlytimewilltell.xyz:2086/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="19. LATIN / SPANISH",LATINO : UNIVISION (KUVN) DALLAS
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION (KUVN) DALLAS" tvg-logo="http://onlytimewilltell.xyz:2086/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="19. LATIN / SPANISH",UNIVISION (KUVN) DALLAS
 http://tkosportz.live:25461/eharper9597/4439340369/99424
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION (WLTV) FORT LAUDERDALE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="19. LATIN / SPANISH",LATINO : UNIVISION (WLTV) FORT LAUDERDALE
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION (WLTV) FORT LAUDERDALE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="19. LATIN / SPANISH",UNIVISION (WLTV) FORT LAUDERDALE
 http://tkosportz.live:25461/eharper9597/4439340369/99425
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36136/tudnchannel.png" group-title="19. LATIN / SPANISH",LATINO : UNIVISION DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36136/tudnchannel.png" group-title="19. LATIN / SPANISH",UNIVISION DEPORTES
 http://tkosportz.live:25461/eharper9597/4439340369/99426
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="19. LATIN / SPANISH",LATINO : UNIVISION EAST
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="19. LATIN / SPANISH",UNIVISION EAST
 http://tkosportz.live:25461/eharper9597/4439340369/99427
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION TLNOVELAS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/37215/univistlnovelaschannel.png" group-title="19. LATIN / SPANISH",LATINO : UNIVISION TLNOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TLNOVELAS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/37215/univistlnovelaschannel.png" group-title="19. LATIN / SPANISH",UNIVISION TLNOVELAS
 http://tkosportz.live:25461/eharper9597/4439340369/99428
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VEPLUS" tvg-logo="" group-title="19. LATIN / SPANISH",LATINO : VEPLUS
+#EXTINF:-1 tvg-id="" tvg-name="VEPLUS" tvg-logo="" group-title="19. LATIN / SPANISH",VEPLUS
 http://tkosportz.live:25461/eharper9597/4439340369/99429
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VH1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/vh1.png" group-title="19. LATIN / SPANISH",LATINO : VH1
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/vh1.png" group-title="19. LATIN / SPANISH",VH1
 http://tkosportz.live:25461/eharper9597/4439340369/99430
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VH1 CLASSIC" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87114/vh1classictv_colordark.png" group-title="19. LATIN / SPANISH",LATINO : VH1 CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87114/vh1classictv_colordark.png" group-title="19. LATIN / SPANISH",VH1 CLASSIC
 http://tkosportz.live:25461/eharper9597/4439340369/99431
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VIDEOROLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="19. LATIN / SPANISH",LATINO : VIDEOROLA
+#EXTINF:-1 tvg-id="" tvg-name="VIDEOROLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="19. LATIN / SPANISH",VIDEOROLA
 http://tkosportz.live:25461/eharper9597/4439340369/99432
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VIENDOMOVIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/45bf4f64448f46138bb4dcb0ef2e745a.png" group-title="19. LATIN / SPANISH",LATINO : VIENDOMOVIES
+#EXTINF:-1 tvg-id="" tvg-name="VIENDOMOVIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/45bf4f64448f46138bb4dcb0ef2e745a.png" group-title="19. LATIN / SPANISH",VIENDOMOVIES
 http://tkosportz.live:25461/eharper9597/4439340369/99433
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VME" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/14033/vmetelevision.png" group-title="19. LATIN / SPANISH",LATINO : VME
+#EXTINF:-1 tvg-id="" tvg-name="VME" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/14033/vmetelevision.png" group-title="19. LATIN / SPANISH",VME
 http://tkosportz.live:25461/eharper9597/4439340369/99434
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WAPA AMERICA" tvg-logo="http://onlytimewilltell.xyz:2086/images/e72e119298b18281a3202e23f5c7efba.png" group-title="19. LATIN / SPANISH",LATINO : WAPA AMERICA
+#EXTINF:-1 tvg-id="" tvg-name="WAPA AMERICA" tvg-logo="http://onlytimewilltell.xyz:2086/images/e72e119298b18281a3202e23f5c7efba.png" group-title="19. LATIN / SPANISH",WAPA AMERICA
 http://tkosportz.live:25461/eharper9597/4439340369/99435
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1200px-We_TV_logo_2014.svg.png" group-title="19. LATIN / SPANISH",LATINO : WE TV
+#EXTINF:-1 tvg-id="" tvg-name="WE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1200px-We_TV_logo_2014.svg.png" group-title="19. LATIN / SPANISH",WE TV
 http://tkosportz.live:25461/eharper9597/4439340369/99436
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WIN SPORTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/bd715064b5c26e7b74c68be529055742.png" group-title="19. LATIN / SPANISH",LATINO : WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/bd715064b5c26e7b74c68be529055742.png" group-title="19. LATIN / SPANISH",WIN SPORTS
 http://tkosportz.live:25461/eharper9597/4439340369/99437
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ZOOMOO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/83910/zoomootv.png" group-title="19. LATIN / SPANISH",LATINO : ZOOMOO
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/83910/zoomootv.png" group-title="19. LATIN / SPANISH",ZOOMOO
 http://tkosportz.live:25461/eharper9597/4439340369/99438
 #EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO" tvg-logo="http://onlytimewilltell.xyz:2086/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="19. LATIN / SPANISH",LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO
 http://tkosportz.live:25461/eharper9597/4439340369/99439
