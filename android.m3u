@@ -6,6 +6,10 @@
 # ---------------DEPORTES-------------------
 #EXTINF:-1 group-title="DEPORTES", Espn Deportes
 http://supersonictv.live:8080/329474/903964/22222
+
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN Premium HD
 http://200.59.188.3:8000/play/a0gh
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN 2 HD
@@ -31,20 +35,8 @@ http://899438987882912477.ofds1114.xyz:80/live/te411456/CCKKNSc7W9M/912477.ts
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
 ****  04 ******
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS PREMIUM  (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/158454.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/185154.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/36391.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/9530.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 4 (México)
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN Deportes
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/6446
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN DEPORTES
-http://190.92.10.66:4000/play/a003/index.m3u8
+
+
 
 # ---------------CINE-------------------
 #EXTINF:-1 tvg-shift="-4"  group-title="CINE", HBO 2 HD
