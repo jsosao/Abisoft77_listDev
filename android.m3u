@@ -8,7 +8,20 @@
 http://748933211509760430.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760430.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD
 http://748933211509760431.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760431.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2 VIP FHD" tvg-logo="" group-title="Mexico",MX: ESPN 2 VIP FHD
+http://7489332115091012527.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1012527.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX: ESPN 2 FHD" tvg-logo="" group-title="Mexico",MX: ESPN 2 FHD
+http://7489332115091012528.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1012528.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX: ESPN 3 FHD" tvg-logo="" group-title="Mexico",MX: ESPN 3 FHD
+http://7489332115091012529.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1012529.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS DEPORTES HD" tvg-logo="" group-title="Mexico",MX: FOX SPORTS DEPORTES HD
+http://7489332115091016943.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1016943.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS PREMIUM FHD" tvg-logo="" group-title="Mexico",MX: FOX SPORTS PREMIUM FHD
+http://7489332115091016944.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1016944.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: CINECANAL VIP FHD" tvg-logo="" group-title="Mexico",MX: CINECANAL VIP FHD
+http://7489332115091018236.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1018236.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: CNN INTERNACIONAL FHD" tvg-logo="" group-title="Mexico",MX: CNN INTERNACIONAL FHD
+http://7489332115091020527.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1020527.ts
 
 #EXTINF:-1 group-title="DEPORTES", Espn Deportes
 http://supersonictv.live:8080/329474/903964/22222
