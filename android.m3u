@@ -4,6 +4,12 @@
 
 
 # ---------------DEPORTES-------------------
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA FHD
+http://748933211509760430.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760430.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD
+http://748933211509760431.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760431.ts
+
+
 #EXTINF:-1 group-title="DEPORTES", Espn Deportes
 http://supersonictv.live:8080/329474/903964/22222
 
