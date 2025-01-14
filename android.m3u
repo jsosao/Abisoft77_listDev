@@ -8,6 +8,15 @@
 http://748933211509760430.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760430.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD
 http://748933211509760431.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760431.ts
+#EXTINF:-1 tvg-id="" tvg-name="| BEIN SPORTS Ñ |" tvg-logo="http://tvlatino.club:2082/images/1a8a09f9496d74a2c7bc58c54d3b1009.png" group-title="⚫DEPORTES PREMIUM⚫",| BEIN SPORTS Ñ |
+http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513272
+#EXTINF:-1 tvg-id="" tvg-name="| TUDN MX | HD |" tvg-logo="noimage.png" group-title="⚫DEPORTES PREMIUM⚫",| TUDN MX | HD |
+http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513275
+#EXTINF:-1 tvg-id="" tvg-name="| TUDN MX | FHD |" tvg-logo="noimage.png" group-title="⚫DEPORTES PREMIUM⚫",| TUDN MX | FHD |
+http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513276
+#EXTINF:-1 tvg-id="" tvg-name="| SKY SPORTS LA LIGA |" tvg-logo="noimage.png" group-title="⚫DEPORTES PREMIUM⚫",| SKY SPORTS LA LIGA |
+http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513300
+
 
 #EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
@@ -6710,3 +6719,6 @@ http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/482904.mp4
 http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/482907.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Novata Espacial (2024)" tvg-logo="http://tvlatino.club:2082/images/97280ffd80701655747ecfafa92ae6a0.jpg" group-title="⭐ESTRENOS 2024",Novata Espacial (2024)
 http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/482905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Equipaje de mano (2024)" tvg-logo="http://tvlatino.club:2082/images/a1bcc460a67ff4c259033bac00de4694.jpg" group-title="⭐ESTRENOS 2024",Equipaje de mano (2024)
+http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/515295.mkv
+
