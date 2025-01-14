@@ -97,7 +97,6 @@ http://200.59.188.3:8000/play/a01y
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/animal_planet.png" group-title="CULTURA",Animal Planet FHD
 http://playtvpremium.xyz:2095/56966423800play/281023play/99909
-
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/7/7e/A%26E_Network_2004.png" group-title="CINE",A&E HD
 http://playtvpremium.xyz:2095/56966423800play/281023play/99739
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/7/7e/A%26E_Network_2004.png" group-title="CINE",A&E FHD
@@ -155,4 +154,8 @@ http://playtvpremium.xyz:2095/56966423800play/281023play/99790
 #EXTINF:-1 tvg-id="" tvg-name="HBO Pop FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="CINE",HBO Pop FHD
 http://playtvpremium.xyz:2095/56966423800play/281023play/99791
 
-
+# ---------------MOVIES EN MP4-------------------
+#EXTINF:-1 tvg-id="" tvg-name="4/20 Masacre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YP9vQBsYHylBsKwsD6VStbbX8j.jpg" group-title="VOD ESPAÑOL 02",4/20 Masacre (2018)
+http://748933211509146881.pkpuy.xyz:80/movie/me815826/WSfe7@4NyP4V/146881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Abajo Milagro en la Montana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YP9vQBsYHylBsKwsD6VStbbX8j.jpg" group-title="VOD ESPAÑOL 02",6 Abajo Milagro en la Montana (2017)
+http://748933211509146882.pkpuy.xyz:80/movie/me815826/WSfe7@4NyP4V/146882.mp4
