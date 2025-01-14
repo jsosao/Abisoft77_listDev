@@ -8,6 +8,19 @@
 http://748933211509760430.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760430.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD
 http://748933211509760431.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760431.ts
+
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MX - FOX SPORTS 2 HD" tvg-logo="http://vpsapache.hopto.org/images/fox_sports_2_mexico.png" group-title="ES   MOVISTAR+",ES: MX - FOX SPORTS 2 HD
+http://748933211509912476.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/912476.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MX - FOX SPORTS 3 HD" tvg-logo="http://vpsapache.hopto.org/images/fox_sports_3_mexico.png" group-title="ES   MOVISTAR+",ES: MX - FOX SPORTS 3 HD
+http://748933211509912477.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/912477.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MX - FOX SPORTS PREMIUM HD" tvg-logo="http://vpsapache.hopto.org/images/fox_sports_premium_mexico.png" group-title="ES   MOVISTAR+",ES: MX - FOX SPORTS PREMIUM HD
+http://748933211509912478.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/912478.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MX - FOX SPORTS HD" tvg-logo="http://vpsapache.hopto.org/images/FOX_Sports_1_logo.svg.png" group-title="ES   MOVISTAR+",ES: MX - FOX SPORTS HD
+http://748933211509912479.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/912479.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2 VIP FHD" tvg-logo="" group-title="Mexico",MX: ESPN 2 VIP FHD
 http://7489332115091012527.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1012527.ts
 #EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX: ESPN 2 FHD" tvg-logo="" group-title="Mexico",MX: ESPN 2 FHD
@@ -26,8 +39,7 @@ http://7489332115091020527.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/1020527.ts
 #EXTINF:-1 group-title="DEPORTES", Espn Deportes
 http://supersonictv.live:8080/329474/903964/22222
 
-#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES
-http://190.92.10.66:4000/play/a003/index.m3u8
+
 
 #EXTINF:-1 tvg-shift="-4"  group-title="DEPORTES", ESPN Premium HD
 http://200.59.188.3:8000/play/a0gh
