@@ -17,9 +17,18 @@ http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513276
 #EXTINF:-1 tvg-id="" tvg-name="| SKY SPORTS LA LIGA |" tvg-logo="noimage.png" group-title="⚫DEPORTES PREMIUM⚫",| SKY SPORTS LA LIGA |
 http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513300
 
-
-#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES
+********************************************* CANALES DEPORTES PREMIUM **********************************************************
+#EXTINF:-1 group-title="DEPORTES PREMIUM",SKY SPORTS LALIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PREMIUM",TDN
+http://190.92.10.66:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PREMIUM",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA
+http://190.92.10.66:4000/play/a006/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: MX - FOX SPORTS 2 HD" tvg-logo="http://vpsapache.hopto.org/images/fox_sports_2_mexico.png" group-title="ES   MOVISTAR+",ES: MX - FOX SPORTS 2 HD
 http://748933211509912476.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/912476.ts
