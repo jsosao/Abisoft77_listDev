@@ -4,9 +4,9 @@
 
 
 # ---------------DEPORTES-------------------
-#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="⚫DEPORTES PREMIUM⚫",ES: SUPERCOPA FHD
 http://748933211509760430.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760430.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="⚫DEPORTES PREMIUM⚫",ES: SUPERCOPA HD
 http://748933211509760431.pkpuy.xyz:80/live/me815826/WSfe7@4NyP4V/760431.ts
 #EXTINF:-1 tvg-id="" tvg-name="| BEIN SPORTS Ñ |" tvg-logo="http://tvlatino.club:2082/images/1a8a09f9496d74a2c7bc58c54d3b1009.png" group-title="⚫DEPORTES PREMIUM⚫",| BEIN SPORTS Ñ |
 http://tvlatino.club:2082/kristian2year/Sdv2RyJwVzJv/513272
@@ -27,187 +27,33 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 group-title="DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ES - CAZA Y PESCA" tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES PREMIUM",ES - CAZA Y PESCA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156033
-#EXTINF:-1 tvg-id="" tvg-name="ESP D  - BEIN SPORTS LA LIGA" tvg-logo="http://descargas.podzone.net/logos/-BEIN-SPORTS-LA-LIGA.png" group-title="DEPORTES PREMIUM",ESP D  - BEIN SPORTS LA LIGA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156047
-#EXTINF:-1 tvg-id="" tvg-name="ESP D - EUROSPORT 1" tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES PREMIUM",ESP D - EUROSPORT 1
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/41816
-#EXTINF:-1 tvg-id="" tvg-name="ESP D - EUROSPORT 2" tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES PREMIUM",ESP D - EUROSPORT 2
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/51352
-#EXTINF:-1 tvg-id="" tvg-name="ESP D  - DAZN 1 " tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES PREMIUM",ESP D  - DAZN 1 
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/53380
-#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN 2" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES PREMIUM",ESP D - DAZN 2
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/34608
-#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN 3" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES PREMIUM",ESP D - DAZN 3
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1089977
-#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN 4" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES PREMIUM",ESP D - DAZN 4
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1169266
-#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN LA LIGA 1" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES PREMIUM",ESP D - DAZN LA LIGA 1
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1205959
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="• CINE",CINE - EUROPA EUROPA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/33359
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE",CINE - TNT FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4103
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE",CINE - TNT
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4010
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE",CINE - TNT SERIES FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4050
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE",CINE - TNT SERIES
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156004
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - STAR CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE",CINE - STAR CHANNEL FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4022
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - STAR CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE",CINE - STAR CHANNEL
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4121
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL FHD" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE",CINE - CINECANAL FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4068
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE",CINE - CINECANAL
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155785
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY FHD" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="• CINE",CINE - SONY FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4048
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="• CINE",CINE - SONY
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155800
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY MOVIES" tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="• CINE",CINE - SONY MOVIES
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1143816
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE",CINE - PARAMOUNT NETWORK
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4065
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK HD" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE",CINE - PARAMOUNT NETWORK HD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155799
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC FHD" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE",CINE - AMC FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4085
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE",CINE - AMC
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4118
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E FHD" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE",CINE - A&E FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4037
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE",CINE - A&E
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156013
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN FHD" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE",CINE - AXN FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4038
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE",CINE - AXN
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155784
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX FHD" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE",CINE - CINEMAX FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4110
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE",CINE - CINEMAX
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1068350
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX FHD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE",CINE - FX FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4044
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FX HD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE",CINE - FX HD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155789
-#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/3958
-#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY FHD" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY FHD
-<<<<<<< HEAD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4049
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - SPACE FHD" tvg-logo="https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg" group-title="• CINE",CINE - SPACE FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4099
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER FHD" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4053
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155808
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="CINE - TCM" tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="• CINE",CINE - TCM
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155806
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DC UNIVERSE" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="• CINE",CINE - CINEMA DC UNIVERSE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1161848
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DREAMWORKS" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="• CINE",CINE - CINEMA DREAMWORKS
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1161849
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE",CINE - GOLDEN
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155790
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="• CINE",CINE - GOLDEN EDGE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155791
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",CINE - GOLDEN PREMIERE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4091
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN PLUS" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE",CINE - GOLDEN PLUS
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1148196
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE 2" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",CINE - GOLDEN PREMIERE 2
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1148844
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="• CINE",CINE - DE PELICULA PLUS
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155788
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="• CINE",CINE - DE PELICULA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155786
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="• CINE",CINE - SUNDANCE TV
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4101
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="• CINE",CINE - CINE LATINO
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4136
-#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="• CINE",CINE - CINEMA DINAMITA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4142
-#EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name="CINE - CLARO CINEMA" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="• CINE",CINE - CLARO CINEMA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4145
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - CINE MANIA" tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="• CINE",CINE - CINE MANIA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1148843
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA HORROR" tvg-logo="http://descargas.podzone.net/logos/-cinema-horror.png" group-title="• CINE",CINE - CINEMA HORROR
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156006
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DISNEY PIXAR" tvg-logo="http://descargas.podzone.net/logos/-cinema-disney-pixar.png" group-title="• CINE",CINE - CINEMA DISNEY PIXAR
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155781
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="• CINE",CINE - CINE ESTELAR
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156007
-#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="CINE - MOVIE CENTER PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s" group-title="• CINE",CINE - MOVIE CENTER PREMIUM
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1147993
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA FAMILIA" tvg-logo="http://descargas.podzone.net/logos2/-CINE-FAMILIA.png" group-title="• CINE",CINE - CINEMA FAMILIA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156760
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4054
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1156005
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL FHD" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE",CINE - STUDIO UNIVERSAL FHD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4100
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE",CINE - STUDIO UNIVERSAL
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155803
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL REALITY" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="• CINE",CINE - UNIVERSAL REALITY
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119205
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="• CINE",CINE - UNIVERSAL CINEMA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119206
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE",CINE - UNIVERSAL CRIME ESTE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119203
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE",CINE - UNIVERSAL PREMIER ESTE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119204
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="• CINE",CINE - UNIVERSAL COMEDY
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119202
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE",CINE - UNIVERSAL CRIME OESTE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119200
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE",CINE - UNIVERSAL PREMIER OESTE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1119201
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="• CINE",CINE - PANICO TV HD
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/7436
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MULTICINEMA" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - MULTICINEMA
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1148845
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="• CINE",CINE - DHE
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/24180
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="CINE - TBS" tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="• CINE",CINE - TBS
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4011
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="• CINE",CINE - CINEMA MARVEL STUDIOS
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/44728
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
-http://tv.nstvlatino.com:8080/mildreayala/MA8835869/33364
 
 
-
-#EXTINF:0,DC Distrito Comedia (Mexico) (🇲🇽)
-http://181.78.105.146:2000/play/a08t
-#EXTINF:0,Cinecanal (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05d
-#EXTINF:0,Sony Channel (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05c
-#EXTINF:0,Universal Premier (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05o
-#EXTINF:0,Universal Premier (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05p
-#EXTINF:0,Star Channel (Mexico) (🇲🇽)play
-http://190.83.2.172:8081/play/a14e
-
-#EXTINF:0,Tigo Sports (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05f
-#EXTINF:0,TNT (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05h
-#EXTINF:0,Comedy Central (Mexico) (🇲🇽)
-http://190.83.2.172:8081/play/a05l
-
-#EXTINF:0,Discovery Channel (Mexico) (🇲🇽)
-http://190.123.90.146:8000/play/a02g
 
 
 
 # ---------------CINE-------------------
+#EXTINF:0 group-title="CINE 2",DC Distrito Comedia
+http://181.78.105.146:2000/play/a08t
+#EXTINF:0 group-title="CINE 2",Cinecanal
+http://190.83.2.172:8081/play/a05d
+#EXTINF:0 group-title="CINE 2",Sony Channel
+http://190.83.2.172:8081/play/a05c
+#EXTINF:0 group-title="CINE 2",Universal Premier
+http://190.83.2.172:8081/play/a05o
+#EXTINF:0 group-title="CINE 2",Universal Premier
+http://190.83.2.172:8081/play/a05p
+#EXTINF:0 group-title="CINE 2",Star Channel
+http://190.83.2.172:8081/play/a14e
+#EXTINF:0 group-title="CINE 2",Tigo Sports
+http://190.83.2.172:8081/play/a05f
+#EXTINF:0 group-title="CINE 2",TNT
+http://190.83.2.172:8081/play/a05h
+#EXTINF:0 group-title="CINE 2",Comedy Central
+http://190.83.2.172:8081/play/a05l
+#EXTINF:0 group-title="CINE 2",Discovery Channel
+http://190.123.90.146:8000/play/a02g
+
 
 
 # ---------------EDUCACION-------------------
