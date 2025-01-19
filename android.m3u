@@ -97,6 +97,7 @@ http://tv.nstvlatino.com:8080/mildreayala/MA8835869/1155789
 #EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/3958
 #EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY FHD" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY FHD
+<<<<<<< HEAD
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4049
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - SPACE FHD" tvg-logo="https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg" group-title="• CINE",CINE - SPACE FHD
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4099
@@ -179,6 +180,9 @@ http://tv.nstvlatino.com:8080/mildreayala/MA8835869/44728
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
 http://tv.nstvlatino.com:8080/mildreayala/MA8835869/33364
 
+=======
+http://tv.nstvlatino.com:8080/mildreayala/MA8835869/4049
+>>>>>>> 551d2cb3e1bf0862b6bfd3350cde097099a71fdf
 
 
 #EXTINF:0,DC Distrito Comedia (Mexico) (🇲🇽)
