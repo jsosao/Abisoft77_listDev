@@ -32,7 +32,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 https://ch1-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AZTECA INTER
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
 
