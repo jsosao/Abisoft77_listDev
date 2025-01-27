@@ -28,6 +28,11 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AZTECA GUATE
+https://ch1-tva.duin.dev/hls/0/stream.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AZTECA INTER
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 
 
 
@@ -6622,4 +6627,23 @@ http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/482907.mkv
 http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/482905.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Equipaje de mano (2024)" tvg-logo="http://tvlatino.club:2082/images/a1bcc460a67ff4c259033bac00de4694.jpg" group-title="⭐ESTRENOS 2024",Equipaje de mano (2024)
 http://tvlatino.club:2082/movie/kristian2year/Sdv2RyJwVzJv/515295.mkv
+
+# ---------------ESTRENOS 2025-------------------
+#EXTINF:-1 tvg-id="" tvg-name="La culpa no es mía (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg" group-title="ESTRENOS 2025",La culpa no es mía (2025)
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/315402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No te mueras: El hombre que quiere vivir para siempre (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Pvop9rhReLjIoJ09oPIgPG7pwa.jpg" group-title="ESTRENOS 2025",No te mueras: El hombre que quiere vivir para siempre (2025)
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/315403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Mi principio, mi final (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwXTnJXGNJWJV4h3tayJLwgtG7X.jpg" group-title="ESTRENOS 2025",Umjolo: Mi principio, mi final (2025)
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/315406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de ladrones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg" group-title="ESTRENOS 2025",Juego de ladrones
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/316125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De vuelta a la acción (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAvyQ2X3767LwXE2htvAd22ucd3.jpg" group-title="ESTRENOS 2025",De vuelta a la acción (2025)
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/316126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calendario mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg" group-title="ESTRENOS 2025",Calendario mortal
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/316127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alarum Código Letal (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxeUUcoaXXwbXWHYlxmdHaip4CT.jpg" group-title="ESTRENOS 2025",Alarum Código Letal (2025)
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/316128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ad vitam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="ESTRENOS 2025",Ad vitam (2025)
+http://170.39.192.130:2095/movie/56971052330playtv/181224play/316129.mkv
+
 
