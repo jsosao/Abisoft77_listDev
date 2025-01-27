@@ -36,6 +36,20 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 1 Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES PREMIUM",ES*PN 1 Latino
+http://170.39.192.130:2095/56971052330playtv/181224play/99616
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES PREMIUM",ES*PN 1 Latino HD
+http://170.39.192.130:2095/56971052330playtv/181224play/99617
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino
+http://170.39.192.130:2095/56971052330playtv/181224play/99619
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino HD
+http://170.39.192.130:2095/56971052330playtv/181224play/99620
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino
+http://170.39.192.130:2095/56971052330playtv/181224play/99622
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino HD
+http://170.39.192.130:2095/56971052330playtv/181224play/99623
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN Deportes" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES PREMIUM",ES*PN Deportes
+http://170.39.192.130:2095/56971052330playtv/181224play/99625
 
 
 # ---------------CINE-------------------
