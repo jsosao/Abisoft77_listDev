@@ -42,15 +42,25 @@ http://170.39.192.130:2095/56971052330playtv/181224play/99616
 http://170.39.192.130:2095/56971052330playtv/181224play/99617
 #EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino
 http://170.39.192.130:2095/56971052330playtv/181224play/99619
-#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino HD
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino HD
 http://170.39.192.130:2095/56971052330playtv/181224play/99620
 #EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino
 http://170.39.192.130:2095/56971052330playtv/181224play/99622
-#EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino HD
-http://170.39.192.130:2095/56971052330playtv/181224play/99623
-#EXTINF:-1 tvg-id="" tvg-name="ES*PN Deportes" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES PREMIUM",ES*PN Deportes
-http://170.39.192.130:2095/56971052330playtv/181224play/99625
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Latino HD" tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES PREMIUM",Fox Sports 2 Latino HD
+http://170.39.192.130:2095/56971052330playtv/181224play/99647
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports México HD" tvg-logo="https://i.postimg.cc/g0VFfsf5/fsmx.png" group-title="DEPORTES PREMIUM",Fox Sports 3 Mexivo
+http://170.39.192.130:2095/56971052330playtv/181224play/99653
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN 1
+http://170.39.192.130:2095/56971052330playtv/181224play/99576
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png" group-title="DEPORTES PREMIUM",Bein Sports Extra
+http://170.39.192.130:2095/56971052330playtv/181224play/99557
 
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Guatemala" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES PREMIUM",Tigo Sports Guatemala
+http://170.39.192.130:2095/56971052330playtv/181224play/99712
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES PREMIUM",Claro Sports
+http://170.39.192.130:2095/56971052330playtv/181224play/99574
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES PREMIUM",Claro Sports HD
+http://170.39.192.130:2095/56971052330playtv/181224play/99575
 
 # ---------------CINE-------------------
 #EXTINF:0 group-title="CINE 2",DC Distrito Comedia
