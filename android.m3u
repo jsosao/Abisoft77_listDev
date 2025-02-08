@@ -91,6 +91,10 @@ http://190.83.2.172:8081/play/a05h
 
 
 
+# ---------------COMPLACENCIAS-------------------
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" group-title="ESTRENOS 2023",Coco (2017)
+http://playtvpremium.xyz:2095/movie/56966423800play/281023play/6063.mp4
+
 # ---------------ESTRRENOS 2023-------------------
 #EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg" group-title="ESTRENOS 2023",Misión de rescate 2 (2023)
 http://170.39.192.130:2095/movie/56993164346fpro/180724play/121123.mkv
