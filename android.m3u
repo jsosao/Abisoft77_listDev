@@ -11,21 +11,18 @@
 
 
 ********************************************* CANALES DEPORTES PREMIUM **********************************************************
-#EXTINF:-1 group-title="DEPORTES PREMIUM",SKY SPORTS LALIGA
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Sk1_3P0RTs L4_L1G4
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 group-title="DEPORTES PREMIUM",TDN
 http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PREMIUM",ESPN DEPORTES
+#EXTINF:-1 group-title="DEPORTES PREMIUM",3SPN D3PORT3S
 http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA
+#EXTINF:-1 group-title="DEPORTES PREMIUM",Sk1_SPORTS BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LaLiga FHD" tvg-logo="" group-title="Spania",ES: M+ LaLiga FHD
-http://dragonstar.pro:8080/Lacri-megiptv/tp9gzMEtJ9/133739
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN 1
 http://170.39.192.130:2095/56971052330playtv/181224play/99576
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: DAZN FHD" tvg-logo="" group-title="Spania",ES: DAZN 2
-http://dragonstar.pro:8080/Lacri-megiptv/tp9gzMEtJ9/133742
 #EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN LA LIGA
 http://170.39.192.130:2095/56993164346fpro/180724play/99583
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports México HD" tvg-logo="https://i.postimg.cc/g0VFfsf5/fsmx.png" group-title="DEPORTES PREMIUM",Fox Sports 3 MX
@@ -63,8 +60,6 @@ http://190.123.90.146:8000/play/a02g
 
 
 # ---------------CINE-------------------
-#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="ES: MOVISTAR DCINE HD" tvg-logo="" group-title="CINE",ES: MOVISTAR DCINE HD
-http://dragonstar.pro:8080/Lacri-megiptv/tp9gzMEtJ9/133733
 #EXTINF:0 group-title="CINE 2",Cinecanal
 http://190.83.2.172:8081/play/a05d
 #EXTINF:0 group-title="CINE 2",Sony Channel
