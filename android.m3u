@@ -56,7 +56,8 @@ http://190.123.90.146:8000/play/a02g
 
 
 # ---------------EVENTOS -------------------
-
+#EXTINF:-1 tvg-id="" tvg-name="Flow (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imKSymKBK7o73sajciEmndJoVkR.jpg" group-title="English",Flow (2024)
+http://yesimes.oknirvana.club:8880/movie/DAANM2764/ku7WqGT3Tq/83482.mkv
 
 
 # ---------------CINE-------------------
