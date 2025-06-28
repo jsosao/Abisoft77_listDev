@@ -58,6 +58,8 @@ http://190.83.2.172:8081/play/a05o
 http://190.83.2.172:8081/play/a05p
 #EXTINF:0 group-title="CINE 2",Star Channel
 http://190.83.2.172:8081/play/a14e
+#EXTINF:0 group-title="CINE 2",Star Channel 2
+http://190.83.2.172:8081/play/a05a
 #EXTINF:0 group-title="CINE 2",Tigo Sports
 http://190.83.2.172:8081/play/a05f
 #EXTINF:0 group-title="CINE 2",TNT
